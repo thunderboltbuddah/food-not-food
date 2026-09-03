@@ -25,3 +25,6 @@ The trained model was deployed as an interactive **Hugging Face Space**, allowin
 ## 🛠️ Tech Stack
 
 Python · Hugging Face `transformers` · `datasets` · PyTorch · DistilBERT · Gradio (Spaces)
+
+TEST OUTPUT
+<img width="1138" height="350" alt="image" src="https://github.com/user-attachments/assets/318de8b9-ae06-4287-8b6f-e4572e0d43b7" />
